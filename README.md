@@ -21,6 +21,11 @@
 - R
 - V
 
+### Currently working on
+- A python didactic chess engine and a C based chess engine
+- A difficulty rating system for Beat Saber
+- A tool to analyze chess games and learn from your mistakes
+
 <!--
 **kachhy/kachhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
