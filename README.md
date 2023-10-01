@@ -9,7 +9,6 @@
 - C/C++
 - C#
 
-
 ### Experience in
 - JS & TS
   - React (Native)
