@@ -18,6 +18,7 @@
 
 ### Currently learning
 - R
+- Next.js
 - V
 
 ### Currently working on
