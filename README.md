@@ -16,15 +16,10 @@
 - Lua
 - Proxmox
 
-### Currently learning
-- R
-- Next.js
-- V
 
 ### Currently working on
-- A python didactic chess engine and a C based chess engine
-- A difficulty rating system for Beat Saber
-- A tool to analyze chess games and learn from your mistakes
+- A C based chess engine
+- A fake chess website (i.e. a chess website which has no real players, but rather sophisticated humanlike bots that you can play against)
 
 <!--
 **kachhy/kachhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
