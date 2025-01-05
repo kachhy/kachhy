@@ -10,7 +10,7 @@
 - C#
 
 ### Experience in
-- JS & TS
+- JavaScript & TypeScript
   - React (Native)
     - Mantine
 - Lua
