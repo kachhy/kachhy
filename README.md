@@ -3,15 +3,14 @@
 I'm a passionate Computer Science student and aspiring software engineer with a strong foundation in **Python** and **C/C++**, eager to build impactful applications and explore new technologies.
 
 ### Proficient in
-**Python:** Flask, FastAPI, Discord.py
-**C++**
-**C#**
+* **Python:** Flask, FastAPI, Discord.py
+* **C++**
+* **C#**
 
 ### Experience in
-**JavaScript & TypeScript:** React, React Native, Mantine
-**Proxmox**
-**Docker & Docker Compose** 
-
+* **JavaScript & TypeScript:** React, React Native, Mantine
+* **Proxmox**
+* **Docker & Docker Compose** 
 
 ### Here are some of my projects
 * **General purpose Discord bot:** A Discord bot with features for server utilities, moderation, and games.
