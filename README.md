@@ -10,7 +10,8 @@ I'm a passionate Computer Science student and aspiring software engineer with a 
 ### Experience in
 * **JavaScript & TypeScript:** React, React Native, Mantine
 * **Proxmox**
-* **Docker & Docker Compose** 
+* **Docker & Docker Compose**
+* **SQLite**
 
 ### Here are some of my projects
 * **General purpose Discord bot:** A Discord bot with features for server utilities, moderation, and games.
