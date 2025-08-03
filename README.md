@@ -20,6 +20,7 @@ I'm a passionate Computer Science student and aspiring software engineer with a 
 * **Humanlike chess website (built with [Python/Flask] and [React/TypeScript/Mantine/chessground]):** a website that replicates popular chess websites like Chess.com and Lichess, with the exception that every player is an AI profile based on MaiaChess. It benefits players that enjoy the challenge of playing chess versus players of their level without having another person to play with. 
 * **Beat Saber map parser:** A robust Python library to parse, represent, and enable conversion between complex Beat Saber map data across various schema versions.
 * **Beat Saber map difficulty rater:** A Python program built on my map parser to objectively analyze and quantify the difficulty of a map with an objective, multifaceted scale.
+* **Chess Game Analysis Program:** A small Python program to help chess players analyze their moves by giving accuracy insight with the help of top chess engines, and annotating move classifications.
 <!--
 **kachhy/kachhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
