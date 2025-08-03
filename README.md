@@ -13,7 +13,7 @@ I'm a passionate Computer Science student and aspiring software engineer with a 
 * **Docker & Docker Compose**
 * **SQLite**
 
-### Here are some of my projects
+### Here are some of my projects (completed and in progress)
 * **General purpose Discord bot:** A Discord bot with features for server utilities, moderation, and games.
 * **A containerized homework testing program:** A Python program that manages Docker containers to run both efficiency and effectiveness tests on programs with an expected output.
 * **A C based chess engine:** Developing an efficient and small chess engine using modern search and evaluation techniques.
