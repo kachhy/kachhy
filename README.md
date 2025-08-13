@@ -12,6 +12,7 @@ I'm a passionate Computer Science student and aspiring software engineer with a 
 * **Proxmox**
 * **Docker & Docker Compose**
 * **SQLite**
+* **C**
 
 ### Here are some of my projects (completed and in progress)
 * **Chess Game Analysis Program:** A small Python program to help chess players analyze their moves by giving accuracy insight with the help of top chess engines, and annotating move classifications.
