@@ -3,7 +3,7 @@
 I'm a passionate Computer Science student and aspiring software engineer with a strong foundation in **Python** and **C/C++**, eager to build impactful applications and explore new technologies.
 
 ### Proficient in
-* **Python:** Flask, FastAPI, Discord.py
+* **Python:** Flask, FastAPI, Discord.py, Pandas, NumPy
 * **C++**
 * **C#**
 
