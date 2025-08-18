@@ -16,6 +16,8 @@ I'm a passionate Computer Science student and aspiring software engineer with a 
 
 ### Here are some of my projects (completed and in progress)
 * **Chess Game Analysis Program:** A small Python program to help chess players analyze their moves by giving accuracy insight with the help of top chess engines, and annotating move classifications.
+* **C++ Memory Allocators:** An exploration into low-level systems programming by implementing rudimentary memory allocators in C++. It currently includes a high-performance arena allocator, and I'm working on adding a pool allocator.
+* **LLM Benchmark Aggregator:** A Python program that uses Pandas and built-in functionality to clean, aggregate, and display LLM benchmark data in a leaderboard format.
 * **Beat Saber map parser:** A robust Python library to parse, represent, and enable conversion between complex Beat Saber map data across various schema versions.
 * **A C based chess engine:** Developing an efficient and small chess engine using modern search and evaluation techniques.
 * **Humanlike chess website (built with [Python/Flask] and [React/TypeScript/Mantine/chessground]):** a website that replicates popular chess websites like Chess.com and Lichess, with the exception that every player is an AI profile based on MaiaChess. It benefits players that enjoy the challenge of playing chess versus players of their level without having another person to play with. 
