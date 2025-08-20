@@ -19,11 +19,11 @@ I'm a passionate Computer Science student and aspiring software engineer with a 
 * **C++ Memory Allocators:** An exploration into low-level systems programming by implementing rudimentary memory allocators in C++. It currently includes a high-performance arena allocator, and I'm working on adding a pool allocator.
 * **Chess Game Analysis Program:** A small Python program to help chess players analyze their moves by giving accuracy insight with the help of top chess engines, and annotating move classifications.
 * **LLM Benchmark Aggregator:** A Python program that uses Pandas and built-in functionality to clean, aggregate, and display LLM benchmark data in a leaderboard format.
-* **Beat Saber map parser:** A robust Python library to parse, represent, and enable conversion between complex Beat Saber map data across various schema versions.
-* **A C based chess engine:** Developing an efficient and small chess engine using modern search and evaluation techniques.
-* **Humanlike chess website (built with [Python/Flask] and [React/TypeScript/Mantine/chessground]):** a website that replicates popular chess websites like Chess.com and Lichess, with the exception that every player is an AI profile based on MaiaChess. It benefits players that enjoy the challenge of playing chess versus players of their level without having another person to play with. 
-* **A containerized homework testing program:** A Python program that manages Docker containers to run both efficiency and effectiveness tests on programs with an expected output.
-* **Beat Saber map difficulty rater:** A Python program built on my map parser to objectively analyze and quantify the difficulty of a map with an objective, multifaceted scale.
+* **Beat Saber map parser (in-progress):** A robust Python library to parse, represent, and enable conversion between complex Beat Saber map data across various schema versions.
+* **A C based chess engine (in-progress):** Developing an efficient and small chess engine using modern search and evaluation techniques.
+* **Humanlike chess website (built with [Python/Flask] and [React/TypeScript/Mantine/chessground]) (in-progress):** a website that replicates popular chess websites like Chess.com and Lichess, with the exception that every player is an AI profile based on MaiaChess. It benefits players that enjoy the challenge of playing chess versus players of their level without having another person to play with. 
+* **A containerized homework testing program (in-progress):** A Python program that manages Docker containers to run both efficiency and effectiveness tests on programs with an expected output.
+* **Beat Saber map difficulty rater (in-progress):** A Python program built on my map parser to objectively analyze and quantify the difficulty of a map with an objective, multifaceted scale.
 <!--
 **kachhy/kachhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
