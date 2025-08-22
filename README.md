@@ -8,7 +8,7 @@ I'm a passionate Computer Science student and aspiring software engineer with a 
 * **C#**
 
 ### Experience in
-* **JavaScript & TypeScript:** React, React Native, Mantine
+* **JavaScript & TypeScript:** React, React Native, Mantine, Next.js, Node.js
 * **Proxmox**
 * **Docker & Docker Compose**
 * **SQLite**
