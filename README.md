@@ -4,7 +4,7 @@ I'm a passionate Computer Science student and aspiring software engineer with a 
 
 ### Proficient in
 * **Python:** Flask, python-chess, Discord.py, Pandas, NumPy, Langgraph & Langchain, FastAPI
-* **C++**
+* **C++:** Specifically, most of my experience is in C++11, C++14, and C++17.
 * **C#**
 
 ### Experience in
