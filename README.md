@@ -15,6 +15,7 @@ I'm a passionate Computer Science student and aspiring software engineer with a 
 * **C**
 
 ### Here are some of my projects (completed and in progress)
+* **Axiom - Strong C++ based chess engine:** A strong C++17 based UCI chess engine. Incorporates a mathematically tuned and deeply multifaceted classical evaluation and an efficient alpha-beta PVS search algorithm working in tandem to achieve a playing strength that rivals top human players (~2750 Elo).
 * **Sprout - A General purpose Discord bot:** A WIP Discord bot with features for server utilities, moderation, games, and an AI researcher command. This command utilizes an Ollama endpoint to run a large language model, which through Langchain and Langgraph can perform web searches via Tavily, and can conduct iterative research until a comprehensive answer is found.
 * **Tetromino Solver:** A fast C++17 based 8x8 Tetromino solver, supporting multithreading and designed with a number of optimizations from Bitboard representation to checkerboard parity pruning. Users can quickly find one, or all solutions to various Tetromino puzzles.
 * **Multithreaded Priority Queue** A (mostly STL compliant) priority queue created in C++17 built for multithreaded applications. Excellent for safe task scheduling among many threads. I use it in my Tetromino solver to prioritize more complex positions for threads to begin early. 
@@ -22,7 +23,6 @@ I'm a passionate Computer Science student and aspiring software engineer with a 
 * **Chess Game Analysis Program:** A small Python program to help chess players analyze their moves by giving accuracy insight with the help of top chess engines, and annotating move classifications.
 * **LLM Benchmark Aggregator:** A Python program that uses Pandas and built-in functionality to clean, aggregate, and display LLM benchmark data in a leaderboard format.
 * **Beat Saber map parser (in-progress):** A robust Python library to parse, represent, and enable conversion between complex Beat Saber map data across various schema versions.
-* **A C based chess engine (in-progress):** Developing an efficient and small chess engine using modern search and evaluation techniques.
 * **Humanlike chess website (built with [Python/Flask] and [React/TypeScript/Mantine/chessground]) (in-progress):** a website that replicates popular chess websites like Chess.com and Lichess, with the exception that every player is an AI profile based on MaiaChess. It benefits players that enjoy the challenge of playing chess versus players of their level without having another person to play with. 
 * **A containerized homework testing program (in-progress):** A Python program that manages Docker containers to run both efficiency and effectiveness tests on programs with an expected output.
 * **Beat Saber map difficulty rater (in-progress):** A Python program built on my map parser to objectively analyze and quantify the difficulty of a map with an objective, multifaceted scale.
